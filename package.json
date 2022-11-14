@@ -1,0 +1,21 @@
+{
+  "name": "expressweb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jd",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "consolidate": "^0.16.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-engine-jsx": "^3.4.3",
+    "hbs": "^4.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "swig": "^1.4.2"
+  }
+}
